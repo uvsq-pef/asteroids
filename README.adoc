@@ -15,6 +15,7 @@ Vous n'êtes pas limités à l'utilisation de la bibliothèque standard et vous 
 
 [CAUTION]
 ====
+* Le projet est à réaliser en binôme.
 * Le projet initial est géré avec `cargo` et est structuré en plusieurs modules et fichiers.
 Les commandes https://doc.rust-lang.org/cargo/commands/cargo-build.html[`cargo build`] et https://doc.rust-lang.org/cargo/commands/cargo-run.html[`cargo run`] doivent permettre respectivement de compiler et d'exécuter le projet.
 * Pensez à valider régulièrement votre travail avec `git`.
